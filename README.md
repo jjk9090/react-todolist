@@ -11,9 +11,6 @@
 - [x] **Use Local Storage**
 - [x] **Pure and Easy**
 
-## Screenshot
-
-![ScreenGIF](https://imgbed.codingkelvin.fun/uPic/screen.gif)
 
 ## Dependencies
 
