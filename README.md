@@ -1,9 +1,8 @@
 # ✔️ Kanban Board - With React
 
-<p align="center"><img src="https://imgbed.codingkelvin.fun/uPic/TODO_INFO.svg" style="zoom:80%;" /></p>
-
-
 ## Features
+![](1)
+#### 1
 
 - [x] **Draggable**
 - [x] **Multi Event**
